@@ -96,6 +96,10 @@ in this case a = 7, b =2, S = -1, taking s = -1 gives first number 47 and second
 ### Conclusion:
 Circuit for how to implement  N = 115 and 893 are given in the code.
 
+### References:
+* https://arxiv.org/abs/2312.10054
+* Quantum Computation and Quantum Information(Issac Chuang and Michael Nielsen)
+
 
 
 
