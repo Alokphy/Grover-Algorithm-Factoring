@@ -65,6 +65,7 @@ convention : starting bit is the least significant bit.
 
 ![image](https://github.com/Alokphy/Quantum-Factoring-Grovers-Algorithm/assets/171216145/cc9bd866-47b5-4ef2-9cb2-d2cab45bfdcf)
 
+
 the plot gives  a six bit binary with first 3 specifying x and last 3 specifying y
 
 in this case a = 0, b =0, S = -1, taking s =1 gives first number 5 and second 7 as factors 
