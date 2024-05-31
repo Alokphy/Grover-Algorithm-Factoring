@@ -63,7 +63,8 @@ specifying x = 3 bit number and y = 3 bit number .
 
 convention : starting bit is the least significant bit.
 
-![image](https://github.com/Alokphy/Quantum-Factoring-Grovers-Algorithm/assets/171216145/cc9bd866-47b5-4ef2-9cb2-d2cab45bfdcf)
+![image](https://github.com/Alokphy/Grover-Algorithm-Factoring/assets/171216145/1e79db53-f9bd-48db-8e14-f8ceb5978049)
+
 
 
 the plot gives  a six bit binary with first 3 specifying x and last 3 specifying y
