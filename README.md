@@ -77,7 +77,8 @@ specifying x = 3 bit number and y = 2 bit number
 
 convention : starting bit is the least significant bit.
 
-![image](https://github.com/Alokphy/Quantum-Factoring-Grovers-Algorithm/assets/171216145/2ea1253b-dc93-4c01-85df-2f3b35678ae2)
+![image](https://github.com/Alokphy/Grover-Algorithm-Factoring/assets/171216145/84ce755c-4653-4949-93c1-91b0c490d029)
+
 
 the plot gives  a five bit binary with first 3 specifying x and last 2 specifying y
 
@@ -89,7 +90,8 @@ specifying x = 3 bit number and y = 2 bit number
 
 convention : starting bit is the least significant bit.
 
-![image](https://github.com/Alokphy/Quantum-Factoring-Grovers-Algorithm/assets/171216145/c64200d4-feda-431c-91ab-96bdaadc4d66)
+![image](https://github.com/Alokphy/Grover-Algorithm-Factoring/assets/171216145/09ae609b-a963-4d5a-8374-95c28f28629e)
+
 
 the plot gives  a five bit binary with first 3 specifying x and last 2 specifying y
 
